@@ -1,0 +1,21 @@
+---
+author: maeniel
+comments: false
+date: 2009-01-24T07:46:12Z
+slug: the-cholesterol-of-it-all
+title: the cholesterol of it all
+url: /2009/01/24/the-cholesterol-of-it-all/
+wordpress_id: 328
+---
+
+But we no longer believe in the solitary mind. If the Romantics had Hume and the modernists had Freud, the current psychological model — and this should come as no surprise — is that of the networked or social mind. Evolutionary psychology tells us that our brains developed to interpret complex social signals. According to David Brooks, that reliable index of the social-scientific zeitgeist, cognitive scientists tell us that "our decision-making is powerfully influenced by social context"; neuroscientists, that we have "permeable minds" that function in part through a process of "deep imitation"; psychologists, that "we are organized by our attachments"; sociologists, that our behavior is affected by "the power of social networks." The ultimate implication is that there is no mental space that is not social (contemporary social science dovetailing here with postmodern critical theory). One of the most striking things about the way young people relate to one another today is that they no longer seem to believe in the existence of Thoreau's "darkness."
+
+To remember this, to hold oneself apart from society, is to begin to think one's way beyond it. Solitude, Emerson said, "is to genius the stern friend." "He who should inspire and lead his race must be defended from traveling with the souls of other men, from living, breathing, reading, and writing in the daily, time-worn yoke of their opinions." One must protect oneself from the momentum of intellectual and moral consensus — especially, Emerson added, during youth. "God is alone," Thoreau said, "but the Devil, he is far from being alone; he sees a great deal of company; he is legion." The university was to be praised, Emerson believed, if only because it provided its charges with "a separate chamber and fire" — the physical space of solitude. Today, of course, universities do everything they can to keep their students from being alone, lest they perpetrate self-destructive acts, and also, perhaps, unfashionable thoughts. But no real excellence, personal or social, artistic, philosophical, scientific or moral, can arise without solitude. "The saint and poet seek privacy," Emerson said, "to ends the most public and universal." We are back to the seer, seeking signposts for the future in splendid isolation.
+
+Solitude isn't easy, and isn't for everyone. It has undoubtedly never been the province of more than a few. "I believe," Thoreau said, "that men are generally still a little afraid of the dark." Teresa and Tiresias will always be the exceptions, or to speak in more relevant terms, the young people — and they still exist — who prefer to loaf and invite their soul, who step to the beat of a different drummer. But if solitude disappears as a social value and social idea, will even the exceptions remain possible? Still, one is powerless to reverse the drift of the culture. One can only save oneself — and whatever else happens, one can still always do that. But it takes a willingness to be unpopular.
+
+The last thing to say about solitude is that it isn't very polite. Thoreau knew that the "doubleness" that solitude cultivates, the ability to stand back and observe life dispassionately, is apt to make us a little unpleasant to our fellows, to say nothing of the offense implicit in avoiding their company. But then, he didn't worry overmuch about being genial. He didn't even like having to talk to people three times a day, at meals; one can only imagine what he would have made of text-messaging. We, however, have made of geniality — the weak smile, the polite interest, the fake invitation — a cardinal virtue. Friendship may be slipping from our grasp, but our friendliness is universal. Not for nothing does "gregarious" mean "part of the herd." But Thoreau understood that securing one's self-possession was worth a few wounded feelings. He may have put his neighbors off, but at least he was sure of himself. Those who would find solitude must not be afraid to stand alone.
+
+
+- deresiewicz - end of solitude
+
