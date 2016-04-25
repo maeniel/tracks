@@ -1,0 +1,17 @@
+---
+author: maeniel
+comments: true
+date: 2008-04-26 22:41:44+00:00
+layout: post
+slug: ergo
+title: ergo
+wordpress_id: 35
+---
+
+_Canis meus id comedit._
+
+My dog ate it.
+
+_Amicule, deliciae, num is sum qui mentiar tibi?_
+
+Baby, Sweetheart, would I lie to you?

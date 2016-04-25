@@ -1,0 +1,12 @@
+---
+author: maeniel
+comments: false
+date: 2008-05-19 06:31:48+00:00
+layout: post
+slug: refine
+title: refine
+wordpress_id: 56
+---
+
+“You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty. Therefore, the difference between what we do and what we are capable of doing would suffice to solve most of the world’s problem.”
+-mahatma

@@ -1,0 +1,4 @@
+baseurl = "https://maeniel.com/"
+languageCode = "en-us"
+title = "tracks"
+theme = "base16"
